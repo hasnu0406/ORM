@@ -47,7 +47,8 @@ admin.site.register(Bank,Loandetails)
 
 Include the screenshot of your admin page.
 ![Image3](https://github.com/user-attachments/assets/9bd2aa9a-f30c-4b9f-b008-a3429706de01)
-![image4](https://github.com/user-attachments/assets/4352920e-4883-48f0-a731-9b221fb3848a)
+![image](https://github.com/user-attachments/assets/8ee2815e-69a0-4ece-8940-3affdc35c55b)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
